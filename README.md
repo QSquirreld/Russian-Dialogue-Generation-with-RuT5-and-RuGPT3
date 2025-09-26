@@ -113,7 +113,7 @@ Decoder-Only (RuGPT3):
 ## Как запустить
 1. Установить библиотеки
 ```bash
-pip install transformers, datasets, torch, pandas, tqdm, sklearn, torchmetrics, re, evaluate
+pip install transformers datasets torch pandas tqdm sklearn torchmetrics re evaluate
 ```
 
 2. Запустить нужный ноутбук
